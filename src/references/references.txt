@@ -1,0 +1,4 @@
+
+
+for REACT EVENTS:
+https://blog.logrocket.com/react-onclick-event-handlers-guide/
